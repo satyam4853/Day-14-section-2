@@ -37,6 +37,38 @@ namespace LinkedList_Stack_Queue
             }
         }
 
+        internal void peek()
+        {
+            if (this.top == null)
+            {
+                Console.WriteLine("Stack is empty");
+                return;
+            }
+            Console.WriteLine("{0} is in top of stack", this.top.data);
+
+        }
+
+
+        internal void pop()
+        {
+            if (this.top == null)
+            {
+                Console.WriteLine("Stack is empty , Deletion is not possible");
+                return;
+            }
+            Console.WriteLine("value popped is {0}", this.top.data);
+            this.top = this.top.next;
+        }
+
+        internal void IsEmpty()
+        {
+            while (this.top != null)
+            {
+                peek();
+                pop();
+            }
+        }
+
 
 
     }

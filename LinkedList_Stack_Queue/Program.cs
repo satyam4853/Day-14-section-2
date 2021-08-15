@@ -12,6 +12,11 @@ namespace LinkedList_Stack_Queue
             list.push(30);
             list.push(56);
             list.Display();
+            list.peek();
+            list.pop();
+            list.IsEmpty();
+            list.peek();
+
 
 
 
