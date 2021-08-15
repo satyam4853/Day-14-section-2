@@ -31,7 +31,18 @@ namespace LinkedList_Stack_Queue
 
         }
 
-       
+
+        internal void Dequeue()
+        {
+            if (this.head == null)
+            {
+                Console.WriteLine("Stack is empty , Deletion is not possible");
+                return;
+            }
+            Console.WriteLine("value popped is {0}", this.head.data);
+            this.head = this.head.next;
+        }
+
 
 
 
@@ -46,10 +57,20 @@ namespace LinkedList_Stack_Queue
         }
 
 
+        internal void IsEmpty()
+        {
+            while (this.head != null)
+            {
+
+                Dequeue();
+            }
+        }
+
+
 
 
     }
-       
+
 
 
 }

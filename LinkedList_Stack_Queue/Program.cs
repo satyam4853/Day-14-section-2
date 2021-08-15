@@ -12,7 +12,9 @@ namespace LinkedList_Stack_Queue
             list1.Enqueue(56);
             list1.Enqueue(30);
             list1.Enqueue(70);
+            list1.Dequeue();
             list1.Display();
+            list1.IsEmpty();
 
 
 
