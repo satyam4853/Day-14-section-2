@@ -1,0 +1,13 @@
+C:\Users\SATYAM VAISHNAV\fellowship_program\day 14\LinkedList_PROBLEM2\LinkedList_Stack_Queue\LinkedList_Stack_Queue\bin\Debug\netcoreapp3.1\LinkedList_Stack_Queue.exe
+C:\Users\SATYAM VAISHNAV\fellowship_program\day 14\LinkedList_PROBLEM2\LinkedList_Stack_Queue\LinkedList_Stack_Queue\bin\Debug\netcoreapp3.1\LinkedList_Stack_Queue.deps.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day 14\LinkedList_PROBLEM2\LinkedList_Stack_Queue\LinkedList_Stack_Queue\bin\Debug\netcoreapp3.1\LinkedList_Stack_Queue.runtimeconfig.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day 14\LinkedList_PROBLEM2\LinkedList_Stack_Queue\LinkedList_Stack_Queue\bin\Debug\netcoreapp3.1\LinkedList_Stack_Queue.runtimeconfig.dev.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day 14\LinkedList_PROBLEM2\LinkedList_Stack_Queue\LinkedList_Stack_Queue\bin\Debug\netcoreapp3.1\LinkedList_Stack_Queue.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\day 14\LinkedList_PROBLEM2\LinkedList_Stack_Queue\LinkedList_Stack_Queue\bin\Debug\netcoreapp3.1\LinkedList_Stack_Queue.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\day 14\LinkedList_PROBLEM2\LinkedList_Stack_Queue\LinkedList_Stack_Queue\obj\Debug\netcoreapp3.1\LinkedList_Stack_Queue.csproj.AssemblyReference.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day 14\LinkedList_PROBLEM2\LinkedList_Stack_Queue\LinkedList_Stack_Queue\obj\Debug\netcoreapp3.1\LinkedList_Stack_Queue.AssemblyInfoInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day 14\LinkedList_PROBLEM2\LinkedList_Stack_Queue\LinkedList_Stack_Queue\obj\Debug\netcoreapp3.1\LinkedList_Stack_Queue.AssemblyInfo.cs
+C:\Users\SATYAM VAISHNAV\fellowship_program\day 14\LinkedList_PROBLEM2\LinkedList_Stack_Queue\LinkedList_Stack_Queue\obj\Debug\netcoreapp3.1\LinkedList_Stack_Queue.csproj.CoreCompileInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day 14\LinkedList_PROBLEM2\LinkedList_Stack_Queue\LinkedList_Stack_Queue\obj\Debug\netcoreapp3.1\LinkedList_Stack_Queue.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\day 14\LinkedList_PROBLEM2\LinkedList_Stack_Queue\LinkedList_Stack_Queue\obj\Debug\netcoreapp3.1\LinkedList_Stack_Queue.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\day 14\LinkedList_PROBLEM2\LinkedList_Stack_Queue\LinkedList_Stack_Queue\obj\Debug\netcoreapp3.1\LinkedList_Stack_Queue.genruntimeconfig.cache

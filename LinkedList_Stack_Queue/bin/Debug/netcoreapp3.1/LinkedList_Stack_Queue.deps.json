@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LinkedList_Stack_Queue/1.0.0": {
+        "runtime": {
+          "LinkedList_Stack_Queue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LinkedList_Stack_Queue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
